@@ -1,9 +1,9 @@
-# Supplemental Material for PASC2023 publication of Longitudinal effects on plant species involved in agriculture and pandemic emergence undergoing changes in abiotic stress
+# Supplemental Material for PASC2023 publication of: Longitudinal effects on plant species involved in agriculture and pandemic emergence undergoing changes in abiotic stress
 
 - Authors: Mikaela Cashman, Verónica G. Melesse Vergara, Matthew Lane, John Lagergren, Jean Merlet, Mikaela Atkinson, Jared Streich, Wayne Joubert, Daniel Jacobson
 
 ## Contents
-### Original DUO metric vs updated Sörensen-Dice metric
+### Original DUO metric vs updated Sørensen-Dice metric
 Included are both the colored and boundary plots.  Provided are two views (1) cluster boundaries only and (2) clusters with coloring.
 
 ### Yearly
